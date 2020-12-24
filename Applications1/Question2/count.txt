@@ -1,0 +1,2 @@
+Capital Count Demo.txt 7
+Capital Count Hello.txt 6
